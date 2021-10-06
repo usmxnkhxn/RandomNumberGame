@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Guess
-comment1.params=
-comment1.target=int\ newWord()
-comment2.params=users\ randoms
-comment2.target=void\ checkWin(int,\ int)
-numComments=3
